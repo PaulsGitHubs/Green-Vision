@@ -17,3 +17,18 @@ Illustration of processing for light spectrums in the Green: 495–570 nm wavele
 
 ### Special phenomena also arises from photoelectic effects and blue spectra light and electrical circuits.
 
+## Objectives
+- **Develop and refine algorithms** that enhance, filter, and detect features in images within the green light spectrum.
+- **Simulate green light conditions** in standard images to test algorithm effectiveness.
+- **Provide tools and scripts** for researchers and developers working in environments where green light is predominant.
+
+## Installation
+To set up the Green-Vision project on your local machine, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Green-Vision.git
+   cd Green-Vision
+   pip install -r requirements.txt
+   python examples/basic_green_filter.py
+   ```
